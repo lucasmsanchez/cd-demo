@@ -8,6 +8,7 @@ public class CdDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CdDemoApplication.class, args);
+		// Testing new authentication token...
 	}
 
 }
